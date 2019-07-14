@@ -18,8 +18,8 @@ export const ProductPageTemplate = ({
   fullImage,
   pricing,
 }) => (
-  <div className="content">
-    <div
+  <div className="content notification">
+    {/* <div
       className="full-width-image-container margin-top-0"
       style={{
         backgroundImage: `url(${
@@ -38,7 +38,7 @@ export const ProductPageTemplate = ({
       >
         {title}
       </h2>
-    </div>
+    </div> */}
     <section className="section section--gradient">
       <div className="container">
         <div className="section">

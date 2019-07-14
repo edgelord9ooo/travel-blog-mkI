@@ -3,6 +3,7 @@ import { Helmet } from 'react-helmet'
 import Footer from '../components/Footer'
 import Navbar from '../components/Navbar'
 import './all.sass'
+// import './debug.css'
 import useSiteMetadata from './SiteMetadata'
 
 const TemplateWrapper = ({ children }) => {
@@ -44,9 +45,20 @@ const TemplateWrapper = ({ children }) => {
         <meta property="og:url" content="/" />
         <meta property="og:image" content="/img/og-image.jpg" />
       </Helmet>
-      <Navbar />
-      <div>{children}</div>
-      <Footer />
+      
+      <div className='bg'>
+        <div className='row'><Navbar /></div>
+        <div className='columns'>
+          <div class="column"></div>
+          <div class="column is-three-fifths">
+            <div>
+                {children}
+            </div>
+          </div>
+          <div class="column"></div>
+        </div>
+      </div>
+      {/* <Footer /> */}
     </div>
   )
 }
