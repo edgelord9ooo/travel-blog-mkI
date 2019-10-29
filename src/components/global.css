@@ -1,0 +1,12 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    background-image: url("../img/allStarsBackground.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.navbar {
+    background-color: transparent !important;
+}

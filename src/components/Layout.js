@@ -9,7 +9,7 @@ import useSiteMetadata from './SiteMetadata'
 const TemplateWrapper = ({ children }) => {
   const { title, description } = useSiteMetadata()
   return (
-    <div>
+    <div className='bg'>
       <Helmet>
         <html lang="en" />
         <title>{title}</title>
@@ -39,26 +39,25 @@ const TemplateWrapper = ({ children }) => {
           color="#ff4400"
         />
         <meta name="theme-color" content="#fff" />
-
         <meta property="og:type" content="business.business" />
         <meta property="og:title" content={title} />
         <meta property="og:url" content="/" />
         <meta property="og:image" content="/img/og-image.jpg" />
       </Helmet>
-      
-      <div className='bg'>
+
+      <div>
         <div className='row'><Navbar /></div>
         <div className='columns'>
           <div class="column"></div>
           <div class="column is-three-fifths">
             <div>
-                {children}
+              {children}
             </div>
           </div>
           <div class="column"></div>
         </div>
-      </div>
       {/* <Footer /> */}
+      </div>
     </div>
   )
 }
