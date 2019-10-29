@@ -2,9 +2,12 @@ var proxy = require('http-proxy-middleware')
 
 module.exports = {
   siteMetadata: {
-    title: 'The Quill Online',
+    title: 'In Wanderlust',
     description:
-      'Promoting freedom of speech and freedom of thought',
+      'A Travel Blog. Lost in the Great Expanse of the World',
+    url: "https://www.in-wanderlust.com", // No trailing slash allowed!
+    image: "/images/juan.jpeg", // Path to your image you placed in the 'static' folder
+    twitterUsername: "",
   },
   plugins: [
     'gatsby-plugin-react-helmet',
