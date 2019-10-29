@@ -1,19 +1,20 @@
 ---
 templateKey: 'about-page'
 path: /about
-title: About our values
+title: Who We are
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+### Promoting Freedom of Thought
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sem integer vitae justo eget magna. Ante metus dictum at tempor commodo ullamcorper a lacus. Nibh nisl condimentum id venenatis a condimentum vitae sapien. Urna condimentum mattis pellentesque id. Aliquam malesuada bibendum arcu vitae elementum. Fermentum et sollicitudin ac orci phasellus egestas tellus rutrum tellus. Facilisi morbi tempus iaculis urna id volutpat lacus laoreet. Nunc aliquet bibendum enim facilisis gravida neque convallis. Nibh mauris cursus mattis molestie a iaculis at erat pellentesque. Quis enim lobortis scelerisque fermentum dui faucibus. Tincidunt augue interdum velit euismod. Porta nibh venenatis cras sed felis eget velit aliquet. At volutpat diam ut venenatis tellus in metus vulputate. Sed blandit libero volutpat sed cras ornare arcu dui. Quis imperdiet massa tincidunt nunc pulvinar sapien et ligula. Sit amet risus nullam eget felis. Vel pharetra vel turpis nunc eget lorem.
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+### Platforming Freedom
+Quam elementum pulvinar etiam non quam lacus suspendisse. Mattis nunc sed blandit libero volutpat sed cras ornare arcu. Bibendum arcu vitae elementum curabitur vitae. Nisi est sit amet facilisis magna etiam tempor orci eu. Quam quisque id diam vel quam. Turpis egestas integer eget aliquet nibh. Pellentesque adipiscing commodo elit at imperdiet dui accumsan sit. Mattis rhoncus urna neque viverra justo nec. Adipiscing elit duis tristique sollicitudin nibh sit. Aliquam ut porttitor leo a diam. Egestas sed tempus urna et pharetra pharetra massa. Quam quisque id diam vel quam elementum pulvinar etiam. Mattis vulputate enim nulla aliquet.
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+### Promoting Democratization of the Media
+Dolor purus non enim praesent. Nulla malesuada pellentesque elit eget gravida cum sociis. Leo urna molestie at elementum eu facilisis sed odio. Aliquet nec ullamcorper sit amet. Tellus at urna condimentum mattis pellentesque. Ut lectus arcu bibendum at varius. Vestibulum mattis ullamcorper velit sed ullamcorper. Orci a scelerisque purus semper eget duis at tellus. Est pellentesque elit ullamcorper dignissim cras tincidunt. Nullam non nisi est sit amet facilisis magna etiam. Praesent semper feugiat nibh sed. Accumsan lacus vel facilisis volutpat est velit egestas dui. Massa sed elementum tempus egestas sed sed risus. Massa placerat duis ultricies lacus sed turpis tincidunt id. Suspendisse faucibus interdum posuere lorem ipsum. Quis enim lobortis scelerisque fermentum dui faucibus in. Lobortis elementum nibh tellus molestie nunc. Augue neque gravida in fermentum.
 
 ### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+Mus mauris vitae ultricies leo integer malesuada nunc. Convallis posuere morbi leo urna. Cras tincidunt lobortis feugiat vivamus. Pulvinar pellentesque habitant morbi tristique. Sapien pellentesque habitant morbi tristique senectus. Tempor orci eu lobortis elementum nibh tellus. Mauris in aliquam sem fringilla ut morbi. Dui nunc mattis enim ut. Nunc sed blandit libero volutpat sed cras ornare arcu. Morbi tristique senectus et netus et malesuada fames. Et ultrices neque ornare aenean euismod elementum nisi quis eleifend. Lectus arcu bibendum at varius vel pharetra vel turpis. Vestibulum mattis ullamcorper velit sed ullamcorper.
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+### Combatting Authoritarianism
+Consequat interdum varius sit amet mattis. Commodo quis imperdiet massa tincidunt nunc. Orci eu lobortis elementum nibh tellus. Nunc sed id semper risus. Proin fermentum leo vel orci porta non. Et molestie ac feugiat sed lectus. Felis donec et odio pellentesque diam volutpat. Ut consequat semper viverra nam libero justo laoreet. Dignissim enim sit amet venenatis urna cursus eget nunc scelerisque. Eu mi bibendum neque egestas congue quisque. Nibh mauris cursus mattis molestie. Dui id ornare arcu odio ut sem nulla. Commodo elit at imperdiet dui accumsan sit amet nulla facilisi. Arcu risus quis varius quam. Urna et pharetra pharetra massa massa ultricies mi. Justo nec ultrices dui sapien eget mi proin. Adipiscing elit pellentesque habitant morbi. Ante metus dictum at tempor commodo ullamcorper a lacus. Enim nulla aliquet porttitor lacus luctus accumsan tortor posuere.
+
