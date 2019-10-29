@@ -11,3 +11,7 @@ html, body {
 .navbar {
     background-color: transparent !important;
 }
+
+.article {
+    margin: 10vw;
+}
