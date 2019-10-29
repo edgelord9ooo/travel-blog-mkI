@@ -1,7 +1,7 @@
 html, body {
     height: 100%;
     margin: 0;
-    background-image: url("../img/aquill.jpg");
+    background-image: url("../img/travelBackground.jpeg");
     /* background-size: cover;
     background-repeat: no-repeat; */
     background-size: 40vw;
@@ -9,7 +9,7 @@ html, body {
 }
 
 .navbar {
-    background-color: transparent !important;
+    background-color: rgb(78, 51, 11) !important;
 }
 
 .article {
